@@ -77,7 +77,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
 
-    LAZY_URL_HELP_TXT = """
+    SOCIETY_URL_HELP_TXT = """
 🧬 How to index database channel 
 ➪ Add me to your database channel as ADMIN and send me the last media from you db channel with quote. 
 
