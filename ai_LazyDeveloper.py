@@ -1,6 +1,6 @@
 #
 #         i am NOT INTRESTED IN BEING YOUR SECOND FATHER... SO DON'T REMOVE MY CREDIT...
-#                                       @LazyDeveloperr
+#                                       @team_society_1
 # 
 # 
 # 
@@ -15,7 +15,7 @@
 #                                                ...PRESENTING...
 #                                  A R T I F i C I A L  -  I N T E L i G E N C E
 #                                              .in  Auto-Filter-Bot.
-#                                                 @LazyDeveloperr
+#                                                 @team_society_1
 #
 #                                       
 #
@@ -29,12 +29,12 @@
 #
 #
 #         this line is for copy-pasters...
-#         ...while you are removing my credit and calling yourself a developerr... 
+#         ...while you are removing my credit and calling yourself a developer... 
 #         _____ just imagine, At that time i am fucking your mom and sis at same time, harder & too harder...
 #
-# Credit @LazyDeveloper.
+# Credit @team_society_1.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+# Born to do something unique @team_society_1 !
+# Thank you obito for helping us in this Journey
+# 🥰  Thank you for giving me credit @team_society_1  🥰
+# for any error please contact me -> telegram @i_killed_my_clan or insta @obito.xe_ 
