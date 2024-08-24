@@ -66,7 +66,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     UPLOAD_START = "<b>initiating sᴏᴄɪᴇᴛʏ Uᴘʟᴏᴀᴅ ⚡</b>"
 
-    LAZY_UPLOAD_START = """<b>●❤♡ Rᴇᴄɪᴇᴠɪɴɢ Sᴏᴄɪᴇᴛʏ Fɪʟᴇ ♡❤●</b>\n\n⏯**File Name:** `{}`"""
+    SOCIETY_UPLOAD_START = """<b>●❤♡ Rᴇᴄɪᴇᴠɪɴɢ Sᴏᴄɪᴇᴛʏ Fɪʟᴇ ♡❤●</b>\n\n⏯**File Name:** `{}`"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "▼ Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n▲ Uᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs\n\n★.•☆•.★𑁔𑁔★ 𝖽𝖾𝗍✫𝗂𝗅𝗌 ★𑁔𑁔★.•☆•.★\n\n🔗<b>URL:</b> {}\n\n✩📂<b>F Name:</b> `{}`\n\n✩📝<b>C Name:</b> `{}`\n\n🧬**File Size:** `{}`\n\n🧡Thank you🧡"
 
@@ -106,24 +106,23 @@ Here is the help for my COMMANDS."""
 ➪ Send me any direct download link of your file.
 
 """
-    ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>🦋 𝕃𝕒𝕫𝕪𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🦋</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝒗10.0[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]
+    ABOUT_TXT = """✯ : {}
+⌬ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <ᴀ ʜʀᴇғ=ʜᴛᴛᴘs://ᴛ.ᴍᴇ/i_killed_my_clan>💓  ๏ 𝐎ʙɪᴛᴏ ᴜᴄʜɪʜᴀ ๏ 💓
+⌬ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <ᴀ ʜʀᴇғ=ʜᴛᴛᴘs://docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
+⌬ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <ᴀ ʜʀᴇғ=https://www.python.org/> 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+⌬ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<ᴀ ʜʀᴇғ=https://www.mongodb.com> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+⌬ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <ᴀ ʜʀᴇғ=https://www.heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄
+⌬ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <ᴀ ʜʀᴇғ=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA> 𝒗𝟷𝟶.𝟶[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 🎉Lᴀᴢʏ Pʀɪɴᴄᴇss ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- 🎁Sᴏᴜʀᴄᴇ - https://github.com/LazyDeveloperr/LazyPrincess 
+- 🎁Sᴏᴜʀᴄᴇ - https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA 
  
-- ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- 💓 <a href=https://t.me/i_killed_my_clan>๏ 𝐎ʙɪᴛᴏ ᴜᴄʜɪʜᴀ ๏</a> 💓"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
