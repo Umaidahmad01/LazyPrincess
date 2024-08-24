@@ -1,5 +1,4 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love @team_society_1 💘
 
 import asyncio
 from pyrogram import Client
@@ -32,8 +31,12 @@ async def handle_force_subscribe(bot, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("✴️ Join My Update Channel ✴️", url=invite_link.invite_link)
-                    ]
+                        InlineKeyboardButton("⚡ Join My Update Channel ⚡", url=invite_link.invite_link)
+                    
+                        InlineKeyboardButton("⚡ Join My Update Channel ⚡", url=invite_link.invite_link)
+                   
+                        InlineKeyboardButton("⚡ Join My Update Channel ⚡", url=invite_link.invite_link)
+                   ]
                 ]
             ),
             parse_mode=enums.ParseMode.MARKDOWN,
