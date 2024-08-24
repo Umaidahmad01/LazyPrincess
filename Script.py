@@ -94,10 +94,10 @@ Here is the help for my COMMANDS."""
 ➪ Send /vlt or /ᴠɪᴇᴡ_sᴏᴄɪᴇᴛʏ_ᴛʜᴜᴍʙ or /ᴠɪᴇᴡ_sᴏᴄɪᴇᴛʏ_ᴛʜᴜᴍʙɴᴀɪʟ
 
 🧬 How To Delete normal Thumbnail
-➪ Send /dt or /del_thumb or /delete_thumb
+➪ Send /dt or /ᴅᴇʟ_ᴛʜᴜᴍʙ or /ᴅᴇʟᴇᴛᴇ_ᴛʜᴜᴍʙ
 
 🧬 How To Delete URL Thumbnail
-➪ Send /dlt or /del_lazy_thumb or /delete_lazy_thumb
+➪ Send /dlt or /ᴅᴇʟ_sᴏᴄɪᴇᴛʏ_ᴛʜᴜᴍʙ or /ᴅᴇʟᴇᴛᴇ_sᴏᴄɪᴇᴛʏ_ᴛʜᴜᴍʙ
 
 🧬 How to Rename any Media
 ➪ Send me a video or document i will provide you renaming function
