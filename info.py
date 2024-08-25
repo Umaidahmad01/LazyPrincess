@@ -47,10 +47,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # LOG CHANNELS *
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002015354644'))
 LAZY_GROUP_LOGS = int(environ.get('SOCIETY_GROUP_LOGS', '-1002078429106'))
-REQ_CHANNEL = int(environ.get('REQ_CHANNEL' '-1002020461301')
+REQ_CHANNEL = int(environ.get('REQ_CHANNEL', -1002020461301))
 PRIME_MEMBERS_LOGS = int(environ.get('-1002015354644')
 
-# PREMIUM ACCESS *
+# PREMIUM ACCESS 
 Societydownloaders = [int(lazydownloaders) if id_pattern.search(lazydownloaders) else lazydownloaders for lazydownloaders in environ.get('PRIME_DOWNLOADERS', '').split()]
 PRIME_USERS = (lazydownloaders) if lazydownloaders else [] # users who can get & download file without url shortner
 Society_renamers = [int(socrenamers) if id_pattern.search(lazrenamers) else lazrenamers for lazrenamers in environ.get('LAZY_RENAMERS', '6564336670 5585016974 6885162066').split()]
