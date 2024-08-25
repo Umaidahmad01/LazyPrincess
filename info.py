@@ -19,7 +19,7 @@ def is_enabled(value, default):
 
 # Bot information *
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ('API_ID', '20718334'))
+API_ID = int(environ('API_ID', '20718334')
 API_HASH = environ('API_HASH', '4e81464b29d79c58d0ad8a0c55ece4a5')
 BOT_TOKEN = environ("BOT_TOKEN", "7436567389:AAEDUFqzZwhjTk2hWXdVXRyuMfQ6EyO3fsI")
 
@@ -47,8 +47,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # LOG CHANNELS *
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002015354644'))
 LAZY_GROUP_LOGS = int(environ.get('SOCIETY_GROUP_LOGS', '-1002078429106'))
-REQ_CHANNEL = int(environ.get('REQ_CHANNEL' '-1002020461301'))
-PRIME_MEMBERS_LOGS = int(environ.get('-1002015354644'))
+REQ_CHANNEL = int(environ.get('REQ_CHANNEL' '-1002020461301')
+PRIME_MEMBERS_LOGS = int(environ.get('-1002015354644')
 
 # PREMIUM ACCESS *
 Societydownloaders = [int(lazydownloaders) if id_pattern.search(lazydownloaders) else lazydownloaders for lazydownloaders in environ.get('PRIME_DOWNLOADERS', '').split()]
